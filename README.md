@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-- 👾 Front-end
+- 👾 Dev Front-end
 - 💻 Design Gráfico
 - ⚡ E-commerce
 - 🐍 Python
