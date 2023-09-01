@@ -1,5 +1,6 @@
 ### Hello world 👋
 
+- 👨🏻‍💼 Product Owner | E-commerce | Magento
 - 👾 Dev Front-end
 - 💻 Design Gráfico
 - ⚡ E-commerce
